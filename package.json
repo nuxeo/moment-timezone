@@ -1,6 +1,6 @@
 {
 	"name": "@nuxeo/moment-timezone",
-	"version": "0.6.3-nx.0",
+	"version": "0.6.3-nx.1",
 	"type": "module",
 	"description": "Parse and display moments in any timezone.",
 	"homepage": "http://momentjs.com/timezone/",
@@ -30,7 +30,7 @@
 	},
 	"license": "MIT",
 	"dependencies": {
-		"@nuxeo/moment": "^2.30.1-nx.1"
+		"@nuxeo/moment": "^2.31.0-nx.0"
 	},
 	"devDependencies": {
 		"grunt": "^1.5.3",
